@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container-wrapper mt-8 ">
         <div className="flex justify-center flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
-          <p className="font-groot-one text-white">
+          <p className="font-groot-one ">
                 Copyright 2024 SolShip. All Rights Reserved.
               </p>
 

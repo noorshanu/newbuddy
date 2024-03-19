@@ -8,7 +8,7 @@ function Hero() {
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
        
 
-            <div className=" max-w-2xl  py-8 px-4 rounded-3xl border-2 border-[#ffffff]">
+            <div className=" max-w-2xl  py-8 px-4 rounded-3xl border-2 border-[#000000]">
             <h1 className="font-groot-one text-lg sm:text-3xl py-2 ">
          Welcome to SolShip, the most bubbly and optimistic meme coin!
          </h1>
@@ -17,7 +17,7 @@ function Hero() {
                 <a
                   href="https://solscan.io/token/4R9VUGpg7jCcV1MnqNQubQUjKKR3oL7XB85oAuB3FwXF"
                   target="_blank"
-                  className="my-2 font-groot-two flex justify-start text-xs  text-[#ffc93b] sm:text-xl font-bold "
+                  className="my-2 font-groot-two flex justify-start text-xs  text-[#000000] sm:text-xl font-bold "
                 >
                   {" "}
                   Contract : 4R9VUGpg7jCcV1MnqNQubQUjKKR3oL7XB85oAuB3FwXF
@@ -28,7 +28,7 @@ function Hero() {
               <a
                   href="https://www.dextools.io/app/en/solana/pair-explorer/F9iRyJMDcMwwAUEd4zm7dezrivZNMqmgD4Dpchb4yF1A?t=1710791481197"
                   target="_blank"
-                  className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#f02c2f] shadow-lg shadow-black/40 text-[#ffffff]  font-bold  border-[#ffffff] border-2"
+                  className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#f02c2f] shadow-lg shadow-black/40 text-[#ffffff]  font-bold  border-[#000000] border-2"
                 >
                   DEXTOOLS
                 </a>
@@ -36,10 +36,10 @@ function Hero() {
             
                 <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
             <a target="_blank" href="https://twitter.com/SolShiplll" className=" text-4xl">
-              <FaTwitter fill="#fff" />
+              <FaTwitter fill="#000" />
             </a>
             <a target="_blank" href="https://t.me/SolShipll" className=" text-4xl">
-              <FaTelegram fill="#fff" />
+              <FaTelegram fill="#000" />
             </a>
           </div>
             
