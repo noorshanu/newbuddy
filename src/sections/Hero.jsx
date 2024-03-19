@@ -38,7 +38,7 @@ function Hero() {
             <a target="_blank" href="https://twitter.com/SolShiplll" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/SolShipll" className=" text-4xl">
+            <a target="_blank" href="https://t.me/solshibo" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>
