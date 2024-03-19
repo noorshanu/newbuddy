@@ -19,15 +19,15 @@ function AppLayout() {
      
 
       <div>
-        <dl className="h-[50px]" />
+        {/* <dl className="h-[50px]" />
         <Intro />
-        <dl className="h-[50px]" />
+        <dl className="h-[50px]" /> */}
         {/* <div className=" bg-[#473314]">
         <MemeCards />
         </div> */}
-        <div className=" h-[100px]  py-4  mb-2 bg-[#0000005d] ">
+        {/* <div className=" h-[100px]  py-4  mb-2 bg-[#0000005d] ">
         <MemeMark />
-      </div>
+      </div> */}
         {/* <div>
           <RoadMap/>
         </div> */}

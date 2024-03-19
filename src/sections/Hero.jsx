@@ -1,7 +1,7 @@
 import { FaTwitter, FaTelegram } from "react-icons/fa";
 function Hero() {
   return (
-    <section className=" pt-4  pb-[4rem] ">
+    <section className=" pt-4  pb-[8rem] ">
       <div className="container-wrapper">
       
         <div className="relative z-50">
@@ -12,12 +12,7 @@ function Hero() {
             <h1 className="font-groot-one text-lg sm:text-3xl py-2 ">
          Welcome to SylvesterSol, the most bubbly and optimistic meme coin!
          </h1>
-              <h2 className=" text-lg text-[#ffc93b] font-semibold ">
-            optimistic meme coin
-                on Solana! Just like spongBob, we're all about fun, friendship,
-                and making waves in the crypto world. Join us in Bikini Bottom
-                for meme creation, staking, and endless water adventures!
-              </h2>
+         
               <div className=" py-2">
                 <a
                   href="https://solscan.io/token/4R9VUGpg7jCcV1MnqNQubQUjKKR3oL7XB85oAuB3FwXF"
@@ -52,7 +47,7 @@ function Hero() {
             </div>
 
             <div className=" w-full">
-              <img src="images/hero2.png" alt="" />
+              <img src="images/hero2.png" alt="" className=" h-auto sm:h-[400px] mx-auto" />
             </div>
           </div>
         </div>
