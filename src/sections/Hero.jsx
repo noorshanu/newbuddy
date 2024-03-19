@@ -10,7 +10,7 @@ function Hero() {
 
             <div className=" max-w-2xl  py-8 px-4 rounded-3xl border-2 border-[#000000]">
             <h1 className="font-groot-one text-lg sm:text-3xl py-2 ">
-         Welcome to SolShib, the most bubbly and optimistic meme coin!
+         Welcome to SolShib, The playful blend of Solana's speed with the charm of Shiba Inus. 
          </h1>
          
               <div className=" py-2">
