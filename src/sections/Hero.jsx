@@ -10,7 +10,7 @@ function Hero() {
 
             <div className=" max-w-2xl  py-8 px-4 rounded-3xl border-2 border-[#ffffff]">
             <h1 className="font-groot-one text-lg sm:text-3xl py-2 ">
-         Welcome to SylvesterSol, the most bubbly and optimistic meme coin!
+         Welcome to SolShip, the most bubbly and optimistic meme coin!
          </h1>
          
               <div className=" py-2">
@@ -35,10 +35,10 @@ function Hero() {
                
             
                 <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/SylvesterSolll" className=" text-4xl">
+            <a target="_blank" href="https://twitter.com/SolShiplll" className=" text-4xl">
               <FaTwitter fill="#fff" />
             </a>
-            <a target="_blank" href="https://t.me/SylvesterSoll" className=" text-4xl">
+            <a target="_blank" href="https://t.me/SolShipll" className=" text-4xl">
               <FaTelegram fill="#fff" />
             </a>
           </div>
