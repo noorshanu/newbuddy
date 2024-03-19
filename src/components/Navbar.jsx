@@ -17,7 +17,7 @@ function Navbar() {
           />
 
           <p className=" text-xl font-bold font-groot-one text-[#000]">
-          SolShip
+          SolShib
           </p>
         </div>
 
